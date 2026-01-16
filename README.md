@@ -60,14 +60,6 @@ cd minGPT_copy
 3. Show the log and point out the revert commit.  
 4. Think about the question: when `revert` is preferred over `reset`? (e.g., on shared branches / after publishing history)
 
-## Exercise 4: Cleaning up commit history with `git rebase`
-1. Create 2-3 small commits on a branch (add some minor comments or edits).
-2. Squash these commits into a single commit using `git rebase -i HEAD~N`
-3. Show the commit log after the rebase and describe the changes you made
-4. Think about these questions: 
-   - When is rebasing appropriate to use? 
-   - Why would we want to rebase?
-
 
 ## Useful commands
 
