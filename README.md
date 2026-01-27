@@ -1,4 +1,4 @@
-### MADE A DIFFERENT CHANGE in main branch
+### MADE A CHANGE IN merge-conflict + new code change
 
 # minGPT
 
